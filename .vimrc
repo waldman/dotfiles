@@ -10,6 +10,8 @@ set nofoldenable        "dont fold by default
 set foldlevel=1         "this is just what i use
 
 set cindent
+set linebreak
+set printoptions+=wrap:y 
 set smartindent
 set autoindent
 set copyindent    " copy the previous indentation on autoindenting
@@ -100,3 +102,6 @@ inoremap <expr> ( ConditionalPairMap('(', ')')
 inoremap <expr> { ConditionalPairMap('{', '}')
 inoremap <expr> [ ConditionalPairMap('[', ']')
 
+"
+au BufReadPost * if line("'\"") > 0 && line("'\"") <= line("$") |
+                     \ exe "normal g'\"" | endif 
