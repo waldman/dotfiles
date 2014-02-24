@@ -1,0 +1,50 @@
+[user]
+	name = Leon Waldman
+	email = le.waldman@gmail.com
+
+[alias]
+    # Logs
+    ls = log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate
+    lg = log --graph --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate
+    l20 = log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate -n 20
+    l2 = log --graph --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate -n 20
+    ll = log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --numstat
+    ld = log --pretty=format:"%C(yellow)%h\\ %ad%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --date=relative
+    le = log --oneline --decorate
+    lnc = log --pretty=format:"%h\\ %s\\ [%cn]"
+    lds = log --pretty=format:"%C(yellow)%h\\ %ad%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --date=short
+    filelog = log -u
+    fl = log -u
+
+    # Grep
+    f = "!git ls-files | grep -i"
+    grep = grep -Ii
+    gr = grep -Ii
+    gra = "!f() { A=$(pwd) && TOPLEVEL=$(git rev-parse --show-toplevel) && cd $TOPLEVEL && git grep --full-name -In $1 | xargs -I{} echo $TOPLEVEL/{} && cd $A; }; f"
+
+    # Diff
+    dc = diff --cached
+    diff = diff --word-diff
+
+    # Tag
+    lasttag = describe --tags --abbrev=0
+    lt = describe --tags --abbrev=0
+
+    # General
+    ri = rebase --interactive --autosquash
+    la = "!git config -l | grep alias | cut -c 7-"
+    cp = cherry-pick
+    st = status -s
+    cl = clone
+    ci = commit
+    co = checkout
+    br = branch 
+
+[merge]
+	tool = "dbus-launch meld"
+[http]
+	sslVerify = false
+[credential]
+	helper = cache --timeout=360000000
+[push]
+	default = simple

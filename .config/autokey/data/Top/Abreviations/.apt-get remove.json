@@ -1,0 +1,29 @@
+{
+    "usageCount": 7, 
+    "omitTrigger": false, 
+    "prompt": false, 
+    "description": "apt-get remove", 
+    "abbreviation": {
+        "wordChars": "[^ \\n]", 
+        "abbreviations": [
+            "ar"
+        ], 
+        "immediate": false, 
+        "ignoreCase": false, 
+        "backspace": true, 
+        "triggerInside": false
+    }, 
+    "hotkey": {
+        "hotKey": null, 
+        "modifiers": []
+    }, 
+    "modes": [], 
+    "showInTrayMenu": false, 
+    "matchCase": false, 
+    "filter": {
+        "regex": null, 
+        "isRecursive": false
+    }, 
+    "type": "phrase", 
+    "sendMode": "kb"
+}

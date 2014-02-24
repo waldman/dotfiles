@@ -1,0 +1,21 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(#1=(#("bla" 0 1
+      (help-echo #2="File `~/test.py', position 75" icicle-mode-line-help #2# bmkp-full-record #1#)
+      1 3
+      (help-echo #2# bmkp-full-record #1#))
+    (filename . "~/test.py")
+    (front-context-string . "    while a < co")
+    (rear-context-string . "= []\n\n    a = 0\n")
+    (position . 75))
+#1=(#("test.py" 0 1
+      (help-echo #2="File `~/test.py', position 323" icicle-mode-line-help #2# face nil bmkp-full-record #1#)
+      1 7
+      (help-echo #2# face nil bmkp-full-record #1#))
+    (filename . "~/test.py")
+    (front-context-string . "\n    for i in ra")
+    (rear-context-string . "ols.append('1')\n")
+    (position . 323))
+)

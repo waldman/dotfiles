@@ -1,0 +1,29 @@
+{
+    "usageCount": 38, 
+    "omitTrigger": false, 
+    "prompt": false, 
+    "description": "ri", 
+    "abbreviation": {
+        "wordChars": "[^ \\n]", 
+        "abbreviations": [
+            "ri"
+        ], 
+        "immediate": false, 
+        "ignoreCase": false, 
+        "backspace": true, 
+        "triggerInside": false
+    }, 
+    "hotkey": {
+        "hotKey": null, 
+        "modifiers": []
+    }, 
+    "modes": [], 
+    "showInTrayMenu": false, 
+    "matchCase": false, 
+    "filter": {
+        "regex": null, 
+        "isRecursive": false
+    }, 
+    "type": "phrase", 
+    "sendMode": "kb"
+}

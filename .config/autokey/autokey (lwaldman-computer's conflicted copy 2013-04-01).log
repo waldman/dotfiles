@@ -1,0 +1,2438 @@
+INFO - root - Initialising application
+INFO - config-manager - No configuration file found - creating new one
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialise global hotkeys
+INFO - service - Starting service
+INFO - interface - XRecord interface thread starting
+INFO - service - Service now marked as running
+INFO - root - Displaying configuration window
+INFO - root - Entering main()
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 3, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialising application
+INFO - config-manager - Loading config from existing file: /home/leon/.config/autokey/autokey.json
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialise global hotkeys
+INFO - config-manager - Successfully loaded configuration file
+INFO - service - Starting service
+INFO - interface - XRecord interface thread starting
+INFO - service - Service now marked as running
+INFO - root - Entering main()
+ERROR - root - AutoKey is already running - exiting
+INFO - root - Initialising application
+INFO - config-manager - Loading config from existing file: /home/leon/.config/autokey/autokey.json
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialise global hotkeys
+INFO - config-manager - Successfully loaded configuration file
+INFO - service - Starting service
+INFO - interface - XRecord interface thread starting
+INFO - service - Service now marked as running
+INFO - root - Entering main()
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 3, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 3, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 3, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 3, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 3, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 3, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 3, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 3, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+ERROR - root - AutoKey is already running - exiting
+INFO - root - Initialising application
+INFO - config-manager - Loading config from existing file: /home/leon/.config/autokey/autokey.json
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialise global hotkeys
+INFO - config-manager - Successfully loaded configuration file
+INFO - service - Starting service
+INFO - interface - XRecord interface thread starting
+INFO - service - Service now marked as running
+INFO - root - Displaying configuration window
+INFO - root - Entering main()
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 3, in <module>
+NameError: name 'sh' is not defined
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 3, in <module>
+NameError: name 'sh' is not defined
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 3, in <module>
+NameError: name 'sh' is not defined
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 3, in <module>
+NameError: name 'sh' is not defined
+INFO - root - Initialising application
+INFO - config-manager - Loading config from existing file: /home/leon/.config/autokey/autokey.json
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialise global hotkeys
+INFO - config-manager - Successfully loaded configuration file
+INFO - service - Starting service
+INFO - interface - XRecord interface thread starting
+INFO - service - Service now marked as running
+INFO - root - Displaying configuration window
+INFO - root - Entering main()
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialising application
+INFO - config-manager - Loading config from existing file: /home/leon/.config/autokey/autokey.json
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialise global hotkeys
+INFO - config-manager - Successfully loaded configuration file
+INFO - service - Starting service
+INFO - interface - XRecord interface thread starting
+INFO - service - Service now marked as running
+INFO - root - Displaying configuration window
+INFO - root - Entering main()
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - root - Initialising application
+INFO - config-manager - Loading config from existing file: /home/leon/.config/autokey/autokey.json
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialise global hotkeys
+INFO - config-manager - Successfully loaded configuration file
+INFO - service - Starting service
+INFO - interface - XRecord interface thread starting
+INFO - service - Service now marked as running
+INFO - root - Displaying configuration window
+INFO - root - Entering main()
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - root - Initialising application
+INFO - config-manager - Loading config from existing file: /home/leon/.config/autokey/autokey.json
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialise global hotkeys
+INFO - config-manager - Successfully loaded configuration file
+INFO - service - Starting service
+INFO - interface - XRecord interface thread starting
+INFO - service - Service now marked as running
+INFO - root - Displaying configuration window
+INFO - root - Entering main()
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialising application
+INFO - config-manager - Loading config from existing file: /home/leon/.config/autokey/autokey.json
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialise global hotkeys
+INFO - config-manager - Successfully loaded configuration file
+INFO - service - Starting service
+INFO - interface - XRecord interface thread starting
+INFO - service - Service now marked as running
+INFO - root - Entering main()
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - root - Initialising application
+INFO - config-manager - Loading config from existing file: /home/leon/.config/autokey/autokey.json
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialise global hotkeys
+INFO - config-manager - Successfully loaded configuration file
+INFO - service - Starting service
+INFO - interface - XRecord interface thread starting
+INFO - service - Service now marked as running
+INFO - root - Displaying configuration window
+INFO - root - Entering main()
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialising application
+INFO - config-manager - Loading config from existing file: /home/leon/.config/autokey/autokey.json
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialise global hotkeys
+INFO - config-manager - Successfully loaded configuration file
+INFO - service - Starting service
+INFO - interface - XRecord interface thread starting
+INFO - service - Service now marked as running
+INFO - root - Entering main()
+INFO - root - Displaying configuration window
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - interface - Unknown key name: <ctrl><shift>e
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 4, in <module>
+  File "/usr/lib/python2.7/dist-packages/autokey/scripting.py", line 57, in send_key
+    self.mediator.send_key(key.decode("utf-8"))
+  File "/usr/lib/python2.7/dist-packages/autokey/iomediator.py", line 273, in send_key
+    self.interface.send_key(keyName)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 488, in send_key
+    self.__sendKeyCode(self.__lookupKeyCode(keyName))
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 660, in __lookupKeyCode
+    return self.localDisplay.keysym_to_keycode(ord(char))
+TypeError: ord() expected a character, but string of length 14 found
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - interface - Unknown key name: <ctrl><shift>e
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 4, in <module>
+  File "/usr/lib/python2.7/dist-packages/autokey/scripting.py", line 57, in send_key
+    self.mediator.send_key(key.decode("utf-8"))
+  File "/usr/lib/python2.7/dist-packages/autokey/iomediator.py", line 273, in send_key
+    self.interface.send_key(keyName)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 488, in send_key
+    self.__sendKeyCode(self.__lookupKeyCode(keyName))
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 660, in __lookupKeyCode
+    return self.localDisplay.keysym_to_keycode(ord(char))
+TypeError: ord() expected a character, but string of length 14 found
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 4, in <module>
+  File "/usr/lib/python2.7/dist-packages/autokey/scripting.py", line 57, in send_key
+    self.mediator.send_key(key.decode("utf-8"))
+AttributeError: 'list' object has no attribute 'decode'
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialising application
+INFO - config-manager - Loading config from existing file: /home/leon/.config/autokey/autokey.json
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialise global hotkeys
+INFO - config-manager - Successfully loaded configuration file
+INFO - service - Starting service
+INFO - interface - XRecord interface thread starting
+INFO - service - Service now marked as running
+INFO - root - Entering main()
+INFO - root - Displaying configuration window
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 11, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 11, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 17, in <module>
+  File "/usr/lib/python2.7/dist-packages/autokey/scripting.py", line 57, in send_key
+    self.mediator.send_key(key.decode("utf-8"))
+AttributeError: 'list' object has no attribute 'decode'
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 17, in <module>
+  File "/usr/lib/python2.7/dist-packages/autokey/scripting.py", line 57, in send_key
+    self.mediator.send_key(key.decode("utf-8"))
+AttributeError: 'list' object has no attribute 'decode'
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - root - Displaying configuration window
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialising application
+INFO - config-manager - Loading config from existing file: /home/leon/.config/autokey/autokey.json
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialise global hotkeys
+INFO - config-manager - Successfully loaded configuration file
+INFO - service - Starting service
+INFO - interface - XRecord interface thread starting
+INFO - service - Service now marked as running
+INFO - root - Entering main()
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - root - Displaying configuration window
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 11, in <module>
+AttributeError: Window instance has no attribute 'get_active_title'
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 11, in <module>
+AttributeError: Window instance has no attribute 'get_active_title'
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 11, in <module>
+AttributeError: Window instance has no attribute 'get_active_title'
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 11, in <module>
+AttributeError: Window instance has no attribute 'get_active_title'
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 11, in <module>
+AttributeError: Window instance has no attribute 'get_active_title'
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - root - Displaying configuration window
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 4, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 4, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 8, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 8, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 8, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 8, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 8, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 8, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 8, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 8, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 8, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 8, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 8, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 8, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 8, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 8, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 7, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 7, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 7, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 7, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 7, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 7, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 7, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 14, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 14, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 14, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 14, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialising application
+INFO - config-manager - Loading config from existing file: /home/leon/.config/autokey/autokey.json
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialise global hotkeys
+INFO - config-manager - Successfully loaded configuration file
+INFO - service - Starting service
+INFO - interface - XRecord interface thread starting
+INFO - service - Service now marked as running
+INFO - root - Entering main()
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 403, in execute
+    exec script.code in self.scope
+  File "<string>", line 14, in <module>
+  File "/usr/lib/python2.7/subprocess.py", line 679, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1249, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory
+INFO - root - Initialising application
+INFO - config-manager - Loading config from existing file: /home/leon/.config/autokey/autokey.json
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialise global hotkeys
+INFO - config-manager - Successfully loaded configuration file
+INFO - service - Starting service
+INFO - interface - XRecord interface thread starting
+INFO - service - Service now marked as running
+INFO - root - Entering main()
+INFO - root - Displaying configuration window
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - root - Displaying configuration window
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - root - Displaying configuration window
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Undoing last abbreviation expansion
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Undoing last abbreviation expansion
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Undoing last abbreviation expansion
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+ERROR - root - AutoKey is already running - exiting
+INFO - root - Initialising application
+INFO - config-manager - Loading config from existing file: /home/leon/.config/autokey/autokey.json
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialise global hotkeys
+INFO - config-manager - Successfully loaded configuration file
+INFO - service - Starting service
+INFO - interface - XRecord interface thread starting
+INFO - service - Service now marked as running
+INFO - root - Entering main()
+INFO - root - Initialising application
+INFO - config-manager - Loading config from existing file: /home/leon/.config/autokey/autokey.json
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialise global hotkeys
+INFO - config-manager - Successfully loaded configuration file
+INFO - service - Starting service
+INFO - interface - XRecord interface thread starting
+INFO - service - Service now marked as running
+INFO - root - Entering main()
+INFO - root - Displaying configuration window
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Undoing last abbreviation expansion
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - root - Displaying configuration window
+INFO - root - Displaying configuration window
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - root - Displaying configuration window
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Undoing last abbreviation expansion
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - root - Displaying configuration window
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Undoing last abbreviation expansion
+INFO - service - Undoing last abbreviation expansion
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - root - Displaying configuration window
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - root - Displaying configuration window
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - root - Displaying configuration window
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - root - Displaying configuration window
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Undoing last abbreviation expansion
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - root - Initialising application
+INFO - config-manager - Loading config from existing file: /home/leon/.config/autokey/autokey.json
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialise global hotkeys
+INFO - config-manager - Successfully loaded configuration file
+INFO - service - Starting service
+INFO - interface - XRecord interface thread starting
+INFO - service - Service now marked as running
+INFO - root - Entering main()
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - root - Displaying configuration window
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - root - Displaying configuration window
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - root - Displaying configuration window
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - root - Displaying configuration window
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - root - Displaying configuration window
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Undoing last abbreviation expansion
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Undoing last abbreviation expansion
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - root - Displaying configuration window
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - root - Displaying configuration window
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - root - Displaying configuration window
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - root - Displaying configuration window
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - root - Displaying configuration window
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - root - Displaying configuration window
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - root - Initialising application
+INFO - config-manager - Loading config from existing file: /home/leon/.config/autokey/autokey.json
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialise global hotkeys
+INFO - config-manager - Successfully loaded configuration file
+INFO - service - Starting service
+INFO - interface - XRecord interface thread starting
+INFO - service - Service now marked as running
+INFO - root - Entering main()
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - root - Initialising application
+INFO - config-manager - Loading config from existing file: /home/leon/.config/autokey/autokey.json
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialise global hotkeys
+INFO - config-manager - Successfully loaded configuration file
+INFO - service - Starting service
+INFO - interface - XRecord interface thread starting
+INFO - service - Service now marked as running
+INFO - root - Entering main()
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - root - Displaying configuration window
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - root - Shutting down
+INFO - service - Service shutting down
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialising application
+INFO - config-manager - Loading config from existing file: /home/leon/.config/autokey/autokey.json
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialise global hotkeys
+INFO - config-manager - Successfully loaded configuration file
+INFO - service - Starting service
+INFO - interface - XRecord interface thread starting
+INFO - service - Service now marked as running
+INFO - root - Entering main()
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Pausing - service now marked as stopped
+INFO - service - Unpausing - service now marked as running
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - root - Displaying configuration window
+INFO - root - Displaying configuration window
+INFO - root - Displaying configuration window
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - service - Matched hotkey phrase/script with prompt=False
+INFO - root - Initialising application
+INFO - config-manager - Loading config from existing file: /home/leon/.config/autokey/autokey.json
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialise global hotkeys
+INFO - config-manager - Successfully loaded configuration file
+INFO - service - Starting service
+INFO - interface - XRecord interface thread starting
+INFO - service - Service now marked as running
+INFO - root - Entering main()
+INFO - root - Displaying configuration window
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Shutting down
+INFO - service - Service shutting down
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialising application
+INFO - config-manager - Loading config from existing file: /home/leon/.config/autokey/autokey.json
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialise global hotkeys
+INFO - config-manager - Successfully loaded configuration file
+INFO - service - Starting service
+INFO - interface - XRecord interface thread starting
+INFO - service - Service now marked as running
+INFO - root - Entering main()
+INFO - service - Undoing last abbreviation expansion
+INFO - service - Undoing last abbreviation expansion
+INFO - root - Displaying configuration window
+INFO - root - Shutting down
+INFO - service - Service shutting down
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialising application
+INFO - config-manager - Loading config from existing file: /home/leon/.config/autokey/autokey.json
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialise global hotkeys
+INFO - config-manager - Successfully loaded configuration file
+INFO - service - Starting service
+INFO - interface - XRecord interface thread starting
+INFO - service - Service now marked as running
+INFO - root - Entering main()
+INFO - root - Initialising application
+INFO - config-manager - Loading config from existing file: /home/leon/.config/autokey/autokey.json
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialise global hotkeys
+INFO - config-manager - Successfully loaded configuration file
+INFO - service - Starting service
+INFO - interface - XRecord interface thread starting
+INFO - service - Service now marked as running
+INFO - root - Entering main()
+INFO - root - Initialising application
+INFO - config-manager - Loading config from existing file: /home/leon/.config/autokey/autokey.json
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialise global hotkeys
+INFO - config-manager - Successfully loaded configuration file
+INFO - service - Starting service
+INFO - interface - XRecord interface thread starting
+INFO - service - Service now marked as running
+INFO - root - Entering main()
+INFO - service - Undoing last abbreviation expansion
+INFO - service - Undoing last abbreviation expansion
+INFO - service - Undoing last abbreviation expansion
+INFO - service - Undoing last abbreviation expansion
+INFO - root - Displaying configuration window
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Displaying configuration window
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - service - Undoing last abbreviation expansion
+INFO - root - Displaying configuration window
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Displaying configuration window
+INFO - root - Shutting down
+INFO - service - Service shutting down
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialising application
+INFO - config-manager - Loading config from existing file: /home/leon/.config/autokey/autokey.json
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Initialise global hotkeys
+INFO - config-manager - Successfully loaded configuration file
+INFO - service - Starting service
+INFO - interface - XRecord interface thread starting
+INFO - service - Service now marked as running
+INFO - root - Entering main()
+INFO - root - Displaying configuration window
+INFO - config-manager - Configuration changed - rebuilding in-memory structures
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors
+INFO - root - Displaying configuration window
+INFO - root - Shutting down
+INFO - service - Service shutting down
+INFO - config-manager - Persisting configuration
+INFO - config-manager - Backing up existing config file
+INFO - config-manager - Finished persisting configuration - no errors

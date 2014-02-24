@@ -1,0 +1,177 @@
+/// Initial settings
+
+//allow for 'contrib' stuff
+load_paths.unshift("chrome://conkeror-contrib/content/");
+
+// Initial Page
+homepage = "/home/leon/index.html"
+
+// Mode-line
+mode_line_mode(true);
+
+// auto completion in the minibuffer
+minibuffer_auto_complete_default = true;
+url_completion_use_history = true; // should work since bf05c87405
+url_completion_use_bookmarks = true;
+
+// display the url before going to it in hints mode
+hints_display_url_panel = true;
+
+
+/// mode-line
+// FAVICONS
+require("favicon.js");
+add_hook("mode_line_hook", mode_line_adder(buffer_icon_widget), true);
+read_buffer_show_icons = true;
+
+// we'd like to see the # of buffers being loaded
+add_hook("mode_line_hook", mode_line_adder(loading_count_widget), true);
+
+// but really we'd also like to know how many buffers are present and which is the current
+add_hook("mode_line_hook", mode_line_adder(buffer_count_widget), true);
+
+// remove the clock
+remove_hook("mode_line_hook", mode_line_adder(clock_widget));
+
+
+/// Tabs
+require("new-tabs.js");
+
+//Open Middle-Clicked Links in New Buffers
+require("clicks-in-new-buffer.js");
+clicks_in_new_buffer_target = OPEN_NEW_BUFFER_BACKGROUND; // Now buffers open in background.
+
+//Bind Number Keys to Switch to Buffers 1-10
+function define_switch_buffer_key (key, buf_num) {
+    define_key(default_global_keymap, key,
+               function (I) {
+                   switch_to_buffer(I.window,
+                                    I.window.buffers.get_buffer(buf_num));
+               });
+}
+for (let i = 0; i < 10; ++i) {
+    define_switch_buffer_key(String((i+1)%10), i);
+}
+
+
+/// External Editor
+//set emacs as external editor
+editor_shell_command = "emacsclient -c";
+
+// view source in your editor.
+view_source_use_external_editor = true;
+
+
+/// Tab-Buffers
+// redefine C-f as "forwards" and C-b as "backwards"
+// using F and B (that is Shift+F, Shift+B is actually rather inconvenient since
+// many other command use Control and so requires shifting fingers)
+define_key(content_buffer_normal_keymap, "C-f", "forward");
+define_key(content_buffer_normal_keymap, "C-b", "back");
+
+// make M-f and M-b switch to next and previous buffers
+define_key(content_buffer_normal_keymap, "M-f", "buffer-next");
+define_key(content_buffer_normal_keymap, "M-b", "buffer-previous");
+
+// redefine l as "follow link" (like f)
+// (too many of the keys are for the left hand, I like "l" for "link")
+// define_key(content_buffer_normal_keymap, "l", "follow");
+
+// Use M-l to follow link in new background buffer
+// define_key(default_global_keymap, "M-l", "follow-new-buffer-background");
+
+// open url in new background buffer  (I can't think of a good keybinding for this)
+interactive("find-url-new-background-buffer",
+    "Open a URL in a new background buffer",
+        alternates(follow_new_buffer_background, follow_new_window),
+	    $browser_object = browser_object_url,
+	        $prompt = "Find url");
+
+
+/// Sessions
+require("session.js");
+
+// show history in the url bar:
+url_completion_use_bookmarks = false;
+url_completion_use_history = true;
+
+
+// auto-save and auto-load session:
+require("session.js");
+//session_auto_save_file = "/home/minaev/.conkeror.session";
+session_auto_save_auto_load = true;
+session_auto_save_auto_load_fn = session_auto_save_load_window_current;
+define_key(content_buffer_normal_keymap, "C-x C-s", "session-save");
+
+
+// Keys
+define_key(content_buffer_normal_keymap, "C-S-tab", "buffer-previous");
+define_key(content_buffer_normal_keymap, "C-tab", "buffer-next");
+define_key(content_buffer_normal_keymap, "C-t", "buffer-new");
+define_key(content_buffer_normal_keymap, "C-w", "kill-current-buffer");
+define_key(content_buffer_normal_keymap, "C-n", "make-window");
+undefine_key(default_global_keymap, "F");
+define_key(content_buffer_normal_keymap, "F", "follow-new-buffer-background");
+undefine_key(default_global_keymap, "C-F");
+define_key(content_buffer_normal_keymap, "C-F", "follow-new-buffer");
+
+
+// Save buffer before close
+var my_closed_buffers = new Array();
+
+//save the URL of the current buffer before closing it
+interactive("my-close-and-save-current-buffer",
+	"close and save the current buffer for later restore",
+	function(I) {
+	    if(my_closed_buffers.length==10){
+		    my_closed_buffers.shift(); // remove older item to save
+		    // memory, just save maximum 10 buffers
+		}
+		my_closed_buffers.push(I.buffer.document.URL);
+		kill_buffer(I.buffer); //kill the current buffer
+	});
+
+// Apply
+undefine_key(default_global_keymap, "q");
+define_key(default_global_keymap, "q", "my-close-and-save-current-buffer");
+
+// Reopen closed buffer
+interactive("my-open-closed-buffer",
+  "open the last closed buffer", 
+  function(I){
+    // check if the array length > 0
+    if(my_closed_buffers.length>0){
+      // load the URL in new windows
+      load_url_in_new_buffer(
+        my_closed_buffers[my_closed_buffers.length - 1], I.window);
+      // remove the first item in the array
+      my_closed_buffers.pop();
+    }
+  });
+
+define_key(default_global_keymap, "A-W", "my-open-closed-buffer")
+// copy url with C-c u
+interactive("copy-url",
+        "Copy the current buffer's URL to the clipboard",
+        function(I) {
+            var text = I.window.buffers.current.document.location.href;
+            writeToClipboard(text);
+            I.window.minibuffer.message("copied: " + text);
+        }
+);
+define_key(default_global_keymap, "C-c u", "copy-url");
+
+
+// reload conkerorrc with C-c r
+interactive("reload-config", "reload conkerorrc",
+       function(I) {
+          load_rc();
+          I.window.minibuffer.message("config reloaded");
+       }
+);
+define_key(default_global_keymap, "C-c r", "reload-config");
+
+
+// Defining home dir
+cwd = get_home_directory();
+cwd.append("Downloads");
